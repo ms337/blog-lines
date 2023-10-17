@@ -1,6 +1,6 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://www.msinghal.dev/"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "Madhav Singhal"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -27,12 +27,12 @@ minify = true
     disable = true
 
 [Author]
-  name = ""
+  name = "Madhav Singhal"
 
 [params]
-  description = ""
-  author = ""
-  copyright = ""
+  description = "Madhav Singhal's Personal Website"
+  author = "Madhav Singhal"
+  copyright = "Madhav Singhal, 2023"
   logo = ""
 
 [frontmatter]
@@ -42,7 +42,7 @@ minify = true
   facebook = ""
   og_image = ""
   sitename = ""
-  twitter = ""
+  twitter = "madhavsinghal_"
 
 [permalinks]
   posts = "/:year/:month/:day/:filename"
@@ -79,7 +79,19 @@ minify = true
     weight     = -20
 
   [[menu.main]]
-    identifier = "rss"
-    name       = "RSS"
-    url        = "/atom.xml"
+    identifier = "bookshelf"
+    name       = "Bookshelf"
+    url        = "/bookshelf/"
     weight     = -10
+
+  [[menu.main]]
+    identifier = "work"
+    name       = "Work"
+    url        = "/work/"
+    weight     = -5
+
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = -2
