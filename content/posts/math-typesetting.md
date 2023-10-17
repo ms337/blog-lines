@@ -9,6 +9,7 @@ math: true
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
 <!--more-->
 
+
 In this example we will be using [KaTeX](https://katex.org/)
 
 - Create a partial under `/layouts/partials/math.html`

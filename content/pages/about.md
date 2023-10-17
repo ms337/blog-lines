@@ -3,7 +3,7 @@ title: About
 ---
 
 # About
-![Madhav](../../assets/images/piano.jpg)
+![Madhav](/assets/images/piano.jpg)
 
 I am [Madhav](<https://en.wikipedia.org/wiki/Madhava_(Vishnu)>).
 

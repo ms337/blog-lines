@@ -9,6 +9,7 @@ paginate = 999
 minify = true
 
 
+
 [taxonomies]
   tag = "tags"
 
@@ -67,8 +68,8 @@ minify = true
 
 [menu]
   [[menu.main]]
-    identifier = "index"
-    name       = "Index"
+    identifier = "blog"
+    name       = "Blog"
     url        = "/"
     weight     = -111
 
@@ -88,6 +89,12 @@ minify = true
     identifier = "work"
     name       = "Work"
     url        = "/work/"
+    weight     = -5
+
+  [[menu.main]]
+    identifier = "bookmarks"
+    name       = "Bookmarks"
+    url        = "/bookmarks/"
     weight     = -5
 
   [[menu.main]]
