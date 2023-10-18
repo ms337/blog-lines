@@ -70,7 +70,7 @@ pre code {
 
 img {
 	max-width:100%;
-	border: 1px solid #353535;
+	// border: 1px solid #353535; // Madhav: removing lines
 }
 
 hr {
@@ -103,8 +103,8 @@ header ul, footer ul {
 
 
 [aria-current="page"] {
-	//font-weight: bold;
-	text-decoration: line-through;
+	font-weight: bold;
+	// text-decoration: line-through;
 }
 
 header,section, footer {
