@@ -162,6 +162,7 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Elon Musk, Walter Isaacson
 - Reframe Your Brain, Scott Adams
 
+
 <br>
 <br>
 <br>
