@@ -1,6 +1,7 @@
 ---
 title: Bookshelf
 ---
+# Bookshelf
 
 Inspired by [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf), these are books that I have read or are currently/soon on my shelf. These capture most of what I am interested in. 
 
