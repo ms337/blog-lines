@@ -5,6 +5,8 @@
   <main>
     {{ partial "header.html" . }}
     <section>
+      <h1 id="blog">Blog
+      </h1>
 
       <ul class="posts">
         {{ range (.Paginate ( where .Site.RegularPages "Section" "posts" ).ByDate.Reverse).Pages }}

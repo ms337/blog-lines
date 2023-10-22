@@ -168,5 +168,6 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 <br>
 <br>
 
-*"I think a life properly lived is just learn, learn, learn all the time."* 
+---
+*"I think a life properly lived is just learn, learn, learn all the time."*
                                                         -- Charlie Munger
