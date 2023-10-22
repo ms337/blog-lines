@@ -31,7 +31,7 @@ Trained and open sourced code completion LLMs at Replit.
 
 &nbsp;
 
-### Select Work from a Past Life
+### Miscellaneous 
 
 - [Orientalism in the Music of French Opera](https://drive.google.com/file/d/1crrPGjOr5IZAs2COe6bLNWP6SG26SzUG/view), A Technical Research Paper at the Intersection of Music and Continental Philosophy
     - Wrote my IB Extended Essay (capstone high school paper) on how music depicts social, cultural and philosophical "intangible" ideas with a technical analysis on 19th century French Opera

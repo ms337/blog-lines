@@ -19,10 +19,3 @@ You can also email me at: `f"{my_first_name}@{this_domain_name}"`.
 
 ### LLMs
 I also help founders and engineers with specific, highly technical input on two topics: training LLMs and how to build AI products with LLMs. Best way is to tell me about (1) the problem you are solving and (2) you current solution state and we take it from there. 
-
-### Careers/Jobs
-A lot of people reach out to me asking about positions at Replit or about intros to other startups. 
-
-These are completely bi-modally distributed on two extreme ends of (1) exceptional people who have built real world things or solved hard technical problems where there was no tutorial, course or guidance, and (2) the usual job seeker looking for their next role. 
-
-I want to help both but it's a hard signal processing problem. My best advice to help yourself is to build something great, put it out in the real world and then reach out showcasing that.
