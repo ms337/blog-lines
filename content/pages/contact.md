@@ -5,6 +5,7 @@ title: Contact
 # Contact 
 
 ### Social
+
 You can find me on [Twitter](https://twitter.com/madhavsinghal_) and [Github](https://github.com/ms337).
 My Discord handle is *ms337#6016*.
 

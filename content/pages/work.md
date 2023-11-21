@@ -31,8 +31,6 @@ Trained and open sourced code completion LLMs at Replit.
  
 &nbsp;
 
-More work across training, evaluation and benchmarks for code generation, toolchains and classifiers. 
-
 ### Presentations/Talks
 
 #### 2023
