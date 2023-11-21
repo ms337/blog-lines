@@ -9,7 +9,7 @@ I am [Madhav](<https://en.wikipedia.org/wiki/Madhava_(Vishnu)>).
 
 I am currently an engineer on the AI team at [Replit](https://replit.com/~) where I train LLMs on code, build data infrastructure and design and build distributed systems for our core AI features. 
 
-Born and raised in [one of the oldest cities](https://en.wikipedia.org/wiki/Allahabad) in India, I spent my formational years and found my footing at [Doon](https://en.wikipedia.org/wiki/The_Doon_School), an all-boys boarding school at the foothills of the Himalayas. I often describe it as a mesocosm of "Lord of the Flies + Dead Poets Society + Hogwarts" with large doses of the real world. 
+Born and raised in [one of the oldest cities](https://en.wikipedia.org/wiki/Allahabad) in India, I spent my formational years and found my footing at [Doon](https://en.wikipedia.org/wiki/The_Doon_School), an all-boys boarding school at the foothills of the Himalayas.
 
 My formal education in university was in computer science, mathematics and philosophy, but I try to learn as much as I can about startups and building [magical](https://www.oxfordreference.com/display/10.1093/acref/9780195305678.001.0001/acref-9780195305678-e-70) products, computational biology, evolutionary psychology, logic, physics, and more.
 
