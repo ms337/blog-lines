@@ -130,6 +130,7 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Shoe Dog, Phil Knight
 - Everything You Always Wanted to Know About Elementary Statistics, Jerald G. Schutte
 - Love Yourself Like Your Life Depends On It, Kamal Ravikant
+- Kafka on the Shore, Murakami
 - The Design of Everyday Things, Don Norman
 - How to Solve It, G. Polya
 - Principles of Mathematics, Bertrand Russell
@@ -146,6 +147,7 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Schaum's Outline of Vector Analysis, 2ed, Murray Spiegel
 - Artificial Intelligence Engines, James V Stone
 - The Theoretical Minimum Series, Leonard Susskind 
+- The Luminaries, Eleanor Catton 
 - System Design Interview 1 and 2,  Alex Xu
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, Brendan Burns 
 - Design Patterns for Cloud Native Applications, Kasun Indrasiri
@@ -162,6 +164,16 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Games People Play: The Psychology of Human Relationships, Eric Berne 
 - Elon Musk, Walter Isaacson
 - Reframe Your Brain, Scott Adams
+- Anthology of Balaji Srinivasan
+- Musashi: An Epic Novel of the Samurai Era Hardcover, Eiji Yoshikawa
+- Colorless Tsukuru Tazaki and His Years of Pilgrimage, Murakami
+- All the Math You Missed: (But Need to Know for Graduate School), Thomas A. Garrity
+- Proofs: A Long-Form Mathematics Textbook, Jay Cummings
+- Clear Thinking: Turning Ordinary Moments into Extraordinary Results, Shane Parrish
+- The Elements of Computing Systems, 2nd edition: Building a Modern Computer from First Principles, Nisan and Schocken 
+
+
+
 
 
 <br>

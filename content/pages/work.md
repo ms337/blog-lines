@@ -25,11 +25,13 @@ Trained and open sourced code completion LLMs at Replit.
 
 
 #### Replit AI Chat
-- Designed and implemented the new standalone backend service for Replit's AI Chat
+- Designed the new standalone backend service for Replit's AI Chat. 
 - Designed, prototyped and implemented the first set of agent features
 
  
 &nbsp;
+
+More work across training, evaluation and benchmarks for code generation, toolchains and classifiers. 
 
 ### Presentations/Talks
 
