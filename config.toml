@@ -92,12 +92,6 @@ minify = true
     weight     = -5
 
   [[menu.main]]
-    identifier = "bookmarks"
-    name       = "Bookmarks"
-    url        = "/bookmarks/"
-    weight     = -5
-
-  [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
