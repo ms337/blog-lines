@@ -17,6 +17,7 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Hackers and Painters, Paul Graham
 - The Elephant in the Brain, Kevin Simmler and Robin Hanson
 - Prelude to Mathematics, WW Sawyer
+- The Almanack Of Naval Ravikant
 - The Visual Display of Quantitative Information, Edward Tufte
 - How to Fail at Everything and Still Win Big, Scott Adams
 - Letters from a Stoic, Seneca
@@ -147,6 +148,14 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Schaum's Outline of Vector Analysis, 2ed, Murray Spiegel
 - Artificial Intelligence Engines, James V Stone
 - The Theoretical Minimum Series, Leonard Susskind 
+- The Golden Gate, Vikram Seth
+- The White Tiger, Arvind Adiga
+- The Castle, Franz Kafka
+- Midnight's Children, Salman Rushdie
+- My Side, David Beckham
+- Lord of the Flies, William Golding
+- Open, Andre Agassi
+- Haroun and the Sea of Stores, Salman Rushdie
 - The Luminaries, Eleanor Catton 
 - System Design Interview 1 and 2,  Alex Xu
 - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, Brendan Burns 
@@ -166,11 +175,23 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Reframe Your Brain, Scott Adams
 - Anthology of Balaji Srinivasan
 - Musashi: An Epic Novel of the Samurai Era Hardcover, Eiji Yoshikawa
+- Genghis Khan and the Making of the Modern World, Jack Weatherford
+- Testaments Betrayed, Milan Kundera
 - Colorless Tsukuru Tazaki and His Years of Pilgrimage, Murakami
 - All the Math You Missed: (But Need to Know for Graduate School), Thomas A. Garrity
 - Proofs: A Long-Form Mathematics Textbook, Jay Cummings
 - Clear Thinking: Turning Ordinary Moments into Extraordinary Results, Shane Parrish
-- The Elements of Computing Systems, 2nd edition: Building a Modern Computer from First Principles, Nisan and Schocken 
+- The Elements of Computing Systems, 2nd edition: Building a Modern Computer from First Principles, Nisan and Schocken
+- Visual Intelligence: How We Create What We See, Donald Hoffman
+- The Joy of Abstraction: An Exploration of Math, Category Theory, and Life, Eugenia Cheng
+- Logic, A Very Short Intro, Graham Priest
+- High Performance Python: Practical Performant Programming for Humans, Ian Ozsvald and Micha Gorelick
+- Mastering Uncertanity, Matt Watkinson and Csaba Konkoly
+- How the World Really Works, Vaclav Smil
+
+
+
+
 
 
 
