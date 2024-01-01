@@ -2,6 +2,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="dns-prefetch" href="https://www.google-analytics.com">
+  <link href="https://www.google-analytics.com" rel="preconnect" crossorigin>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LE13RJ33EW"></script>
     <script>
@@ -11,7 +13,6 @@
 
     gtag('config', 'G-LE13RJ33EW');
   </script>
-{{ template "_internal/google_analytics.html" . }}
   <meta name="author" content="Madhav Singhal - {{ .Site.BaseURL }}">
   <title>{{ if eq .IsHome true }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ if ne .Description "" }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
@@ -19,8 +20,7 @@
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/schema.html" . }}
   <link rel="canonical" href="{{ .Permalink | absURL }}">
-  <link rel="dns-prefetch" href="https://www.google-analytics.com">
-  <link href="https://www.google-analytics.com" rel="preconnect" crossorigin>
+
   <link rel="alternate" type="application/atom+xml" title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}atom.xml" />
   <link rel="alternate" type="application/json" title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}feed.json" />
   <link rel="shortcut icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=">
