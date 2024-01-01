@@ -7,9 +7,10 @@ pygmentsCodeFences = false
 pygmentsUseClasses = false
 paginate = 999
 minify = true
-googleAnalytics = "G-LE13RJ33EW"
 
-
+[services]
+  [services.googleAnalytics]
+    ID = 'G-LE13RJ33EW'
 
 [taxonomies]
   tag = "tags"
