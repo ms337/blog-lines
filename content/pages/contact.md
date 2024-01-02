@@ -4,14 +4,12 @@ title: Contact
 
 # Contact 
 
-### Social
-
 You can find me on [Twitter](https://twitter.com/madhavsinghal_) and [Github](https://github.com/ms337).
 My Discord handle is *ms337#6016*.
 
 You can email me at: `f"{my_first_name}@{this_domain_name}"`.
 
-### Founders/Startups
+### What to Contact Me For
 
 I enjoy helping founders out on the weekends with technical input, strategy and questions of product market fit.
 
