@@ -83,13 +83,7 @@ googleAnalytics = "G-LE13RJ33EW"
     weight     = -10
 
   [[menu.main]]
-    identifier = "work"
-    name       = "Work"
-    url        = "/work/"
-    weight     = -5
-
-  [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = -2
+    weight     = -5

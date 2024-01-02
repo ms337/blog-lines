@@ -7,7 +7,7 @@ title: About
 
 I am [Madhav](<https://en.wikipedia.org/wiki/Madhava_(Vishnu)>).
 
-I am currently an engineer on the AI team at [Replit](https://replit.com/~) where I train LLMs on code, build data infrastructure and design and build distributed systems for our core AI features. 
+I am currently an engineer on the AI team at [Replit](https://replit.com/~) where I train LLMs on code, build data infrastructure and build services for our core AI features. 
 
 Born and raised in [one of the oldest cities](https://en.wikipedia.org/wiki/Allahabad) in India, I spent my formational years and found my footing at [Doon](https://en.wikipedia.org/wiki/The_Doon_School), an all-boys boarding school at the foothills of the Himalayas.
 

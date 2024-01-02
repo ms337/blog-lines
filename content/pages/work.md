@@ -8,27 +8,19 @@ The following are some of the things I have worked on that I can publicly share:
 
 &nbsp;
 
-### Open Source 
-Trained and open sourced code completion LLMs at Replit.
+### Replit
 
-#### Replit V1.5
-- [Hugging Face Open Source Repo](https://huggingface.co/replit/replit-code-v1_5-3b)
-- [Results Preview](https://x.com/amasad/status/1711513492635922822?s=20)
-- [Blog Post](https://blog.replit.com/replit-code-v1_5)
+Trained and open sourced code completion LLMs end-to-end at Replit.
 
+- [Hugging Face Links](https://huggingface.co/replit)
+- [Results V1.5](https://x.com/amasad/status/1711513492635922822?s=20), [Results V1](https://x.com/swyx/status/1651020776689262592?s=20)
+- [Blog Post on V1.5](https://blog.replit.com/replit-code-v1_5)
+- [Blog Post on Training V1](https://blog.replit.com/llm-training)
 
-#### Replit V1
-- [Hugging Face Open Source Repo](https://huggingface.co/replit/replit-code-v1-3b)
-- [Technical Blog](https://blog.replit.com/llm-training)
-- Designed the training data infrastructure and pipelines, built feature engineering pipelines for increasing data quality, trained the tokenizer and vocabulary, did the actual model training and evaluation
-[Results Preview](https://x.com/swyx/status/1651020776689262592?s=20)
+- Designed the first version of the standalone service for Replit's AI Chat and its agentic features.
 
+Before that, I interned on the data science team at a PE firm in Toronto and on an ML team at Carfax.
 
-#### Replit AI Chat
-- Designed the new standalone backend service for Replit's AI Chat. 
-- Designed, prototyped and implemented the first set of agent features
-
- 
 &nbsp;
 
 ### Presentations/Talks
@@ -41,7 +33,6 @@ Trained and open sourced code completion LLMs at Replit.
 #### 2022
 - [Hotspot and Binding Residue Prediction Using Embeddings](https://docs.google.com/presentation/d/1YsG27N8W5kLrhAgaKt80BJ5kp1ccqVLBZNUr29kC9Ko/edit?usp=sharing)
     - Did undergrad research work in 2021-2022 on large transformers for protein sequences, focusing on applications to hotspot predictions. Showed results supporting the feasibility of using embeddings from large models (ESM-1b, ProtT5) for hotspot, binding and non-binding residue prediction. 
-
 
 
 &nbsp;
@@ -64,5 +55,3 @@ These are some interesting things that I worked on:
 - [Implemented and Trained StylePoseGAN  from scratch](https://wandb.ai/msinghal/spgan_spliced_runs?workspace=user-msinghal)
     - Implemented [StylePoseGAN](https://vcai.mpi-inf.mpg.de/projects/Styleposegan/) paper on top of lucidrains' [stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) and trained the GAN-based network from scratch. We were trying to build a product that enables users to pay and get new, AI-generated, realistic photos for their social media, Tinder, etc. in 2021 before StableDiffusion etc. we released.
     - Built web scrapers to get 800K+ training images from ecommerce sites paired on identity, and built the custom data processing pipeline to assemble curated train and custom eval sets. 
-
-- [Scheme Interpreter in Haskell](https://github.com/ms337/scheme-in-haskell)
