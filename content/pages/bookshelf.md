@@ -5,7 +5,7 @@ title: Bookshelf
 
 Inspired by [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf), these are books that I have read or are currently/soon on my shelf. These capture most of what I am interested in. 
 
-I think that a good measure of "usefulness of a book" is how surprising do you find the ideas/facts the book contains. An interesting parallel is in information theory where the measure of the quantity of information content is called [surprisal](https://en.wikipedia.org/wiki/Information_content). 
+I think that a good measure of "usefulness of a book" is how surprising you find the ideas and facts the book contains. An interesting parallel is in information theory where the measure of the quantity of information content is called [surprisal](https://en.wikipedia.org/wiki/Information_content). 
 
 
 - Dragons of Eden, Carl Sagan 
@@ -173,7 +173,7 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - Games People Play: The Psychology of Human Relationships, Eric Berne 
 - Elon Musk, Walter Isaacson
 - Reframe Your Brain, Scott Adams
-- Anthology of Balaji Srinivasan
+- The Anthology of Balaji: A Guide to Technology, Truth, and Building the Future, Eric Jorgenson
 - Musashi: An Epic Novel of the Samurai Era Hardcover, Eiji Yoshikawa
 - Genghis Khan and the Making of the Modern World, Jack Weatherford
 - Testaments Betrayed, Milan Kundera
@@ -188,6 +188,8 @@ I think that a good measure of "usefulness of a book" is how surprising do you f
 - High Performance Python: Practical Performant Programming for Humans, Ian Ozsvald and Micha Gorelick
 - Mastering Uncertanity, Matt Watkinson and Csaba Konkoly
 - How the World Really Works, Vaclav Smil
+- Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life, Rory Sutherland
+- The Computer and the Brain, John von Neumann 
 
 
 
