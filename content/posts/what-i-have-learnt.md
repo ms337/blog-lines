@@ -1,7 +1,7 @@
 +++
 author = "Madhav Singhal"
 title = "What I Have Learnt So Far"
-date = "2024-01-07"
+date = "2024-01-04"
 description = "What I have learnt, both intellectually through consuming other people’s ideas and viscerally through my own experiences."
 +++
 
