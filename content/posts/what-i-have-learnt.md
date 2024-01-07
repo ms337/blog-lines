@@ -36,9 +36,9 @@ The following are some of the non-obvious, but valuable, things that I have lear
 26. For learning anything there is immense value in just “pretraining” — just keep reading and consuming information on it. 
 27. Starting with your intended application and recursively learning what you need is far more effective than learning first and applying later. 
 28. Clear understanding and explanations often boil down to being mechanistic — a simple chain of reasoning across objects, their properties and the relationships between them.
-29. Framing the problem is the most critical step to solving it.
+29. Framing the problem is the most critical step to solving it. Iterative problem solving is just iterative problem framing. 
 30. Ideas not acted upon effectively end up being non-existent.
-31. The rarest but highest ROI human interaction is encouragement.
+31. The rarest but highest ROI human interaction is encouragement. Encouragement makes people perform way beyond their capacity.
 32. It is actually valuable to be mimetic in certain situations and you need to figure out when to be mimetic and when to be not.
 33. It’s not what you say, it’s what they hear. You are optimizing for the latter.
 34. Your job is not to follow rules and criteria. Your job is to become so good that rules and criteria don’t apply to you. 
@@ -49,12 +49,12 @@ The following are some of the non-obvious, but valuable, things that I have lear
 39. The packaging is as much the product as the product itself. Be surgical about your own packaging.
 40. Everyone has a brand that they are always optimizing for, and you should figure how you fit in if you want something from them.
 41. The halo effect is a real, powerful signal. You need to make it work for you. 
-42. It’s easier to do harder things in the long run.  
+42. It’s easier to do harder things in the long run. What seems easy at the get go sometimes has hidden difficulties or outright failure guarantees. 
 43. You are simply a machine: program yourself overtime with the right inputs, you will get the outputs you want. 
 44. Doing the thing directly is far more useful than doing things about the thing.
 45. Ironically, the most important trait for clear thinking is to hold contradictory ideas in your head simultaneously.
 46. The most important but often overlooked thing in business is what the customer wants.
-47. Capitalism rewards outcomes not outputs. 
+47. Capitalism rewards outcomes not inputs, efforts or outputs. 
 48. Advice is only useful if there is sufficient applicability of context. Any advice given devoid of context is noise.
 49. That which is surprising to you has the highest informational value for you.
 50. What you do affects who you are, not who you are affects what you do. 
