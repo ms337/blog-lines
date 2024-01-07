@@ -5,9 +5,9 @@ date = "2024-01-04"
 description = "What I have learnt, both intellectually through consuming other people’s ideas and viscerally through my own experiences."
 +++
 
+There is a deep distinction between visceral knowledge and intellectual knowledge. The first is acquired through experiences of pain or gain that elicit information. The latter is acquired through consumption of ideas. Both are essential independently, but I believe that what exists in their intersection represents the most valuable form of learning.
 
-The following are some of the non-obvious, but valuable, things that I have learnt so far, both intellectually through consuming other people’s ideas and viscerally through my own experiences:
-
+So far, each of the following is something that I have learnt both intellectually through consuming other people’s ideas and viscerally through my own experiences:
 1. What you work on is more important than what you know, how hard you work and how capable you are. 
 2. In choosing work, work only at the frontier where things are being rapidly discovered, invented or created. Everything else is a suboptimal use of time and effort for creating and capturing intellectual and/or economic value.
 3. Know what you want with high clarity and optimize all decisions around it.
@@ -58,6 +58,7 @@ The following are some of the non-obvious, but valuable, things that I have lear
 48. Advice is only useful if there is sufficient applicability of context. Any advice given devoid of context is noise.
 49. That which is surprising to you has the highest informational value for you.
 50. What you do affects who you are, not who you are affects what you do. 
+
 
 <br>
 <br>
