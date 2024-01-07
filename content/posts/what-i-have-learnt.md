@@ -4,9 +4,9 @@ title = "What I Have Learnt So Far"
 date = "2024-01-04"
 description = "What I have learnt, both intellectually through consuming other people’s ideas and viscerally through my own experiences."
 +++
-
 Each of the following is something non-obvious that I have learnt both 'intellectually', i.e. through consuming other people’s ideas, and viscerally, i.e. through my own experiences and events of pain and gain that elicited information. Hence, I believe that they are valuable and worth sharing:
-<br>
+
+
 1. What you work on is more important than what you know, how hard you work and how capable you are. 
 2. In choosing work, work only at the frontier where things are being rapidly discovered, invented or created. Everything else is a suboptimal use of time and effort for creating and capturing intellectual and/or economic value.
 3. Know what you want with high clarity and optimize all decisions around it.
