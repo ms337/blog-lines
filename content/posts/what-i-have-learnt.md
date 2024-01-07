@@ -70,6 +70,5 @@ Each of the following is something non-obvious that I have learnt both 'intellec
 
 
  
-  
-Thanks to [Arth Gupta](https://twitter.com/arthgupta) and [Rahul Garg](https://twitter.com/rgxai?lang=en) for being a sounding board to my ideas here and giving their feedback on this post.
+Thanks to Arth Gupta and Rahul Garg for being a sounding board to my ideas here and giving their feedback on this post.
 
