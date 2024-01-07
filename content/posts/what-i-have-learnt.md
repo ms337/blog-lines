@@ -6,12 +6,10 @@ description = "What I have learnt, both intellectually through consuming other p
 +++
 
 
-There is a deep distinction between visceral knowledge and intellectual knowledge. The first is acquired through experiences of pain or gain that elicit information. The latter is acquired through consumption of ideas. Both are essential independently, but I believe that what exists in their intersection represents the most valuable form of learning.
-
-So far, each of the following is something that I have learnt both intellectually through consuming other people’s ideas and viscerally through my own experiences:
+The following are some of the non-obvious, but valuable, things that I have learnt so far, both intellectually through consuming other people’s ideas and viscerally through my own experiences:
 
 1. What you work on is more important than what you know, how hard you work and how capable you are. 
-2. Work only at the frontier where things are being rapidly discovered and invented to create and capture intellectual and economic value. Everything else is a suboptimal use of time and effort for those two goals. 
+2. In choosing work, work only at the frontier where things are being rapidly discovered, invented or created. Everything else is a suboptimal use of time and effort for creating and capturing intellectual and/or economic value.
 3. Know what you want with high clarity and optimize all decisions around it.
 4. If you are not getting something you want, you are getting the input variables wrong. 
 5. The context is more important than the agent. Change your environment before changing yourself.
@@ -73,5 +71,5 @@ So far, each of the following is something that I have learnt both intellectuall
 
  
   
-Thanks to [Arth Gupta](https://twitter.com/arthgupta) and [Rahul Garg](https://twitter.com/rgxai?lang=en) for being a sounding board to my ideas here and their feedback on this post.
+Thanks to [Arth Gupta](https://twitter.com/arthgupta) and [Rahul Garg](https://twitter.com/rgxai?lang=en) for being a sounding board to my ideas here and giving their feedback on this post.
 
