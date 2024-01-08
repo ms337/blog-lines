@@ -4,7 +4,7 @@ title = "What I Have Learnt So Far"
 date = "2024-01-04"
 description = "What I have learnt, both intellectually through consuming other people’s ideas and viscerally through my own experiences."
 +++
-Each of the following is something non-obvious that I have learnt both 'intellectually', i.e. through consuming other people’s ideas, and viscerally, i.e. through my own experiences and events of pain and gain that elicited information. Hence, I believe that these ideas are valuable and worth sharing:
+Each of the following is something non-obvious that I have learnt both 'intellectually', i.e. through consuming other people’s ideas, and 'viscerally', i.e. through my own experiences and events of pain and gain that elicited information. Hence, I believe that these ideas are valuable and worth sharing:
 
 
 1. What you work on is more important than what you know, how hard you work and how capable you are. 
