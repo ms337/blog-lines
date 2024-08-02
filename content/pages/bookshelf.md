@@ -189,7 +189,15 @@ I think that a good measure of "usefulness of a book" is how surprising you find
 - Mastering Uncertanity, Matt Watkinson and Csaba Konkoly
 - How the World Really Works, Vaclav Smil
 - Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life, Rory Sutherland
-- The Computer and the Brain, John von Neumann 
+- The Computer and the Brain, John von Neumann
+- The Pragmatic Programmer,  Andy Hunt and Dave Thomas
+- OSTEP - Operating Systems: Three Easy Pieces,  Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
+- How to Win an Argument: An Ancient Guide to the Art of Persuasion, Cicero, Translated by James M. May
+- The Greek Myths, Robert Graves
+- Never Enough: From Barista to Billionaire, Andrew Wilkinson
+- Fluent React: Build Fast, Performant, and Intuitive Web Applications
+
+
 
 
 
