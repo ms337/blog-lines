@@ -196,6 +196,7 @@ I think that a good measure of "usefulness of a book" is how surprising you find
 - The Greek Myths, Robert Graves
 - Never Enough: From Barista to Billionaire, Andrew Wilkinson
 - Fluent React: Build Fast, Performant, and Intuitive Web Applications
+- The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It, Kelly McGonigal 
 
 
 
