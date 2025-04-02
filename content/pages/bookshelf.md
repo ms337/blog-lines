@@ -3,9 +3,9 @@ title: Bookshelf
 ---
 # Bookshelf
 
-Inspired by [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf), these are books that I have read or are currently/soon on my shelf. These capture most of what I am interested in. 
+Inspired by [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf), these are books that I have read or are currently on/will soon be on my shelf. These books capture most of what I am interested in.
 
-I think that a good measure of "usefulness of a book" is how surprising you find the ideas and facts the book contains. An interesting parallel is in information theory where the measure of the quantity of information content is called [surprisal](https://en.wikipedia.org/wiki/Information_content). 
+I think that a good measure of "usefulness of a book" is how surprising you find the ideas and facts the book contains. An interesting parallel is in information theory: the measure of the quantity of information content is called [surprisal](https://en.wikipedia.org/wiki/Information_content). 
 
 
 - Dragons of Eden, Carl Sagan 
@@ -196,7 +196,8 @@ I think that a good measure of "usefulness of a book" is how surprising you find
 - The Greek Myths, Robert Graves
 - Never Enough: From Barista to Billionaire, Andrew Wilkinson
 - Fluent React: Build Fast, Performant, and Intuitive Web Applications
-- The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It, Kelly McGonigal 
+- The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It, Kelly McGonigal
+- Titan: The Life of John D. Rockefeller, Sr., Ron Chernow
 
 
 
